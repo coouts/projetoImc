@@ -1,1 +1,1 @@
-O projeto "Calculadora IMC" tem como objetivo  auxiliar o indivíd  a saber se sua saúde está saudável ou não. É muito importante fazer este teste pelo menos uma vez por ano, para ajudar em sua alimentação ou até mesmo nas ativi físicas. 
+O projeto "Calculadora IMC" tem como objetivo  auxiliar o indivíd  a saber se sua saúde está saudável ou não. É muito importante fazer este teste pelo menos uma vez por ano, para ajudar em sua alimentação ou até mesmo nas ativi físicas
